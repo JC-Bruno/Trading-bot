@@ -4,8 +4,8 @@ import asyncio
 from telegram import Bot
 
 # Configuración del bot de Telegram
-TELEGRAM_BOT_TOKEN = "8100006867:AAGg5h_MAFexUwTcJ2BZRCI02wCjSDM9_5E"
-TELEGRAM_CHAT_ID = "1528276156"
+TELEGRAM_BOT_TOKEN = ""
+TELEGRAM_CHAT_ID = ""
 ENDPOINT_SIMBOLS = "https://fapi.binance.com/fapi/v1/exchangeInfo"
 
 bot = Bot(token=TELEGRAM_BOT_TOKEN)
